@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "346478159632",
+    "firebase_url": "https://kite-flutter.firebaseio.com",
+    "project_id": "kite-flutter",
+    "storage_bucket": "kite-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346478159632:android:8905cf1943dbdbbe79e795",
+        "android_client_info": {
+          "package_name": "com.quinton.kite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346478159632-ejin8f8o46eh3m62leltgbc5mn82nfub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuqgUf1pqYxnVXBY3dyib-uUlooiGD92I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346478159632-ejin8f8o46eh3m62leltgbc5mn82nfub.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "346478159632-ov58hd8lu26nq41csbr3lffrk1aed2dh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quinton.kite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
